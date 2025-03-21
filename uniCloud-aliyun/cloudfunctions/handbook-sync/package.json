@@ -1,0 +1,9 @@
+{
+    "name": "handbook-sync",
+    "version": "1.0.0",
+    "description": "同步飞书文档到宝典",
+    "main": "index.js",
+    "dependencies": {
+        "axios": "^0.27.2"
+    }
+}

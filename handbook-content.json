@@ -1,0 +1,526 @@
+{
+  "documents": [
+    {
+      "title": "小胰宝",
+      "desc": "面向胰腺肿瘤患者和家属的智能AI小助手",
+      "url": "https://aibot.samqin.asia",
+      "category": "all"
+    },
+    {
+      "title": "2024CSCO10MB 胰腺癌诊疗指南",
+      "desc": "医生同款，根据指南，反复对比和了解，了解和确认规范治疗方案",
+      "url": "https://docs.qq.com/pdf/DRnNpclFSYW1ub3Ju",
+      "category": "treatment"
+    },
+    {
+      "title": "2022版胰腺癌诊疗指南",
+      "desc": "医生同款，根据指南，反复对比和了解，了解和确认规范治疗方案",
+      "url": "https://docs.qq.com/pdf/DRllhdklBSmZDWUxo",
+      "category": "treatment"
+    },
+    {
+      "title": "NCCN胰腺癌患者手册",
+      "desc": "科普性读物，全面作为患者快速了解",
+      "url": "https://docs.qq.com/pdf/DRkVQTUNoQkpSaFVU",
+      "category": "mustread"
+    },
+    {
+      "title": "检测报告指标大全",
+      "desc": "包括常见知识/检测报告指标定义",
+      "url": "https://uei55ql5ok.feishu.cn/docx/Jhznd8RcuoMEPax8zOrctcd9nFc",
+      "category": "mustread"
+    },
+    {
+      "title": "MSI/MMR怎么检测？有何意义？",
+      "desc": "基因检测相关知识",
+      "url": "https://mp.weixin.qq.com/s/S_U9HRmwrXxmdU1ZYb8HuA",
+      "category": "all"
+    },
+    {
+      "title": "张煜医生肿瘤科普知识合集",
+      "desc": "医生科普知识合集",
+      "url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg4NzUyNDY3NQ==&action=getalbum&album_id=1904847613082828806",
+      "category": "all"
+    },
+    {
+      "title": "晚期胰腺癌介入治疗临床操作指南（试行）（第六版）",
+      "desc": "治疗指南",
+      "url": "https://docs.qq.com/pdf/DRlBtT0JVYlNoV1JO",
+      "category": "treatment"
+    },
+    {
+      "title": "肠肿瘤腹腔灌注化疗并发症防治中国专家共识（2022版）",
+      "desc": "治疗指南",
+      "url": "https://mp.weixin.qq.com/s/ZoXT0qx_knOFyMY9M6eSaQ",
+      "category": "treatment"
+    },
+    {
+      "title": "癌症相关性疼痛评估中国专家共识（2023版）",
+      "desc": "治疗指南",
+      "url": "https://mp.weixin.qq.com/s/nLnNfvH8C95PmS7DzwmzAA",
+      "category": "treatment"
+    },
+    {
+      "title": "超声引导经皮经肝胆管穿刺置管引流术中国专家共识（2023版）",
+      "desc": "致命并发症指南",
+      "url": "https://mp.weixin.qq.com/s/WTPH316M0hgqxF5No8Wo6g",
+      "category": "treatment"
+    },
+    {
+      "title": "梗阻性黄疸经皮肝穿刺胆道引流及支架植入术专家共识（2018）",
+      "desc": "致命并发症指南",
+      "url": "https://mp.weixin.qq.com/s/fzDsnAOsV-w0M-OmCcOijw",
+      "category": "treatment"
+    },
+    {
+      "title": "萝卜宝典2024版本",
+      "desc": "推荐阅读，覆盖各方面治疗经验，言简意赅",
+      "url": "https://docs.qq.com/pdf/DRkJyZ0FpbGJiRFND",
+      "category": "mustread"
+    },
+    {
+      "title": "中国临床试验公共管理平台",
+      "desc": "提供临床试验的招募，胰腺癌检索的结果",
+      "url": "http://www.medresman.org.cn/pub/cn/proj/search.aspx?title=%E8%83%B0%E8%85%BA%E7%99%8C",
+      "category": "all"
+    },
+    {
+      "title": "中国药物临床试验登记与信息公示平台",
+      "desc": "由国家药品监督管理局药品审评中心代行创建，是基于我国药物临床试验数据库而搭建",
+      "url": "http://www.chinadrugtrials.org.cn/index.html",
+      "category": "all"
+    },
+    {
+      "title": "美国临床信息公示数据库",
+      "desc": "由全球美国国家医学图书馆（NLM）管理，提供了全球范围内正在进行的临床试验的信息",
+      "url": "https://clinicaltrials.gov/",
+      "category": "all"
+    },
+    {
+      "title": "智慧芽新药助手",
+      "desc": "专业和完整的药物助手App，包括新药、临床实验药物以及药物专利等内容",
+      "url": "https://wxaurl.cn/IhB2TOvurDv",
+      "category": "all"
+    },
+    {
+      "title": "新型抗肿瘤药物临床应用指导原则（2023年版）",
+      "desc": "治疗指南",
+      "url": "https://docs.qq.com/pdf/DRmRjaHRBUWdEdXlQ",
+      "category": "treatment"
+    },
+    {
+      "title": "2024CSCO肿瘤患者静脉血栓防治指南",
+      "desc": "治疗指南",
+      "url": "https://docs.qq.com/pdf/DRlhkQ3h1aVp5bGty",
+      "category": "treatment"
+    },
+    {
+      "title": "2024CSCO恶性肿瘤患者营养治疗指南",
+      "desc": "治疗指南",
+      "url": "https://docs.qq.com/pdf/DRk1NR1FrWmNKVEJT",
+      "category": "treatment"
+    },
+    {
+      "title": "2024CSCO肿瘤相关性贫血临床实践指南",
+      "desc": "治疗指南",
+      "url": "https://docs.qq.com/pdf/DRkNIR3RXUWNxaFlJ",
+      "category": "treatment"
+    },
+    {
+      "title": "2024CSCO抗肿瘤药物相关肝损伤诊疗指南",
+      "desc": "治疗指南",
+      "url": "https://docs.qq.com/pdf/DRnlMZm9ackRTbnRk",
+      "category": "treatment"
+    },
+    {
+      "title": "中国腹膜后肿瘤诊治专家共识（2019版）",
+      "desc": "治疗指南",
+      "url": "https://mp.weixin.qq.com/s/6N6UI3F3NwWeT2KQ8IBxmA",
+      "category": "treatment"
+    },
+    {
+      "title": "肿瘤放射治疗质量安全评价标准指南",
+      "desc": "治疗指南",
+      "url": "https://docs.qq.com/pdf/DRnNGdUpmcWNzbkVy",
+      "category": "treatment"
+    },
+    {
+      "title": "中国胰腺实性肿瘤影像学诊断报告规范循证学指南",
+      "desc": "治疗指南",
+      "url": "https://mp.weixin.qq.com/s/pGXkTvkl_RyiHsZlYZAlGw",
+      "category": "treatment"
+    },
+    {
+      "title": "肝胆胰恶性肿瘤腹腔化疗专家共识（2020版）",
+      "desc": "治疗指南",
+      "url": "https://mp.weixin.qq.com/s/Pe4sD3iKHlIiPflImBr7Jwv",
+      "category": "treatment"
+    },
+    {
+      "title": "中国腹腔热灌注化疗技术临床应用专家共识",
+      "desc": "治疗指南",
+      "url": "https://mp.weixin.qq.com/s/ayNYT-_EV6cWToBXWariTA",
+      "category": "treatment"
+    },
+    {
+      "title": "腹腔镜或机器人辅助胰腺癌根治术中国专家共识（2022版）",
+      "desc": "治疗指南",
+      "url": "https://docs.qq.com/pdf/DRlNwZmtPckRLRGFG",
+      "category": "treatment"
+    },
+    {
+      "title": "恶性肿瘤患者康复期营养管理专家共识（2023版）",
+      "desc": "治疗指南",
+      "url": "https://mp.weixin.qq.com/s/1NNep0hsYqxo9uW21ahwmg",
+      "category": "treatment"
+    },
+    {
+      "title": "中国成人患者肠外肠内营养临床应用指南（2023版）",
+      "desc": "治疗指南",
+      "url": "https://mp.weixin.qq.com/s/HhglOAwBOMQfQL1Dsaoklg",
+      "category": "treatment"
+    },
+    {
+      "title": "肿瘤免疫营养治疗指南",
+      "desc": "新治疗方案",
+      "url": "https://mp.weixin.qq.com/s/9rJQde_I-8StsAtiDNk_rA",
+      "category": "treatment"
+    },
+    {
+      "title": "溶瘤病毒专家共识2022",
+      "desc": "理解什么是溶瘤病毒，以及其治疗特点",
+      "url": "https://docs.qq.com/pdf/DRkJoeXRvd3BVRlRX",
+      "category": "treatment"
+    },
+    {
+      "title": "肿瘤大剂量维生素C治疗专家共识（2024年）",
+      "desc": "HDVC治疗是一种广谱抗肿瘤方法",
+      "url": "https://mp.weixin.qq.com/s/tEXNpCopOQK7wKLKhRVUrg",
+      "category": "treatment"
+    },
+    {
+      "title": "骨改良药物用于恶性肿瘤骨转移治疗的安全性共识（2024版）",
+      "desc": "骨转移相关指南",
+      "url": "https://mp.weixin.qq.com/s/TPykZaPR9vdp-r8t4Xbcjg",
+      "category": "treatment"
+    },
+    {
+      "title": "中国肺癌骨转移临床诊疗指南（2024版）",
+      "desc": "骨转移相关指南",
+      "url": "https://mp.weixin.qq.com/s/GQRPXlKyk1-hebeAg8akIA",
+      "category": "treatment"
+    },
+    {
+      "title": "CTCAE 5.0常见不良事件评价标准",
+      "desc": "美国国家癌症研究所常见不良事件评价标准",
+      "url": "https://uei55ql5ok.feishu.cn/wiki/KZoywWsYoigfX9kU0rKcXa0Cnme",
+      "category": "treatment"
+    },
+    {
+      "title": "癌症相关静脉血栓NCCN指南中文版2021v2",
+      "desc": "血栓性血小板减少性紫癜相关指南",
+      "url": "https://docs.qq.com/pdf/DRk9IYkRqREV3TW5W",
+      "category": "treatment"
+    },
+    {
+      "title": "血栓性血小板减少性紫癜诊断与治疗中国指南（2022年版）",
+      "desc": "致命并发症指南",
+      "url": "https://mp.weixin.qq.com/s/Blulth4tjx0p_n4rzfiM1g",
+      "category": "treatment"
+    },
+    {
+      "title": "急性胆道系统感染的诊断和治疗指南（2021版）",
+      "desc": "致命并发症指南",
+      "url": "https://mp.weixin.qq.com/s/NDyJKqF6cXGzCZSymC2N6g",
+      "category": "treatment"
+    },
+    {
+      "title": "晚期癌症患者的恶性肠梗阻：流行病学、治疗和影响自然消退的因素",
+      "desc": "致命并发症指南",
+      "url": "https://docs.qq.com/pdf/DRlZtZlNXZm13ZElC?",
+      "category": "treatment"
+    },
+    {
+      "title": "恶性肠梗阻治疗中国专家共识（2023年）",
+      "desc": "致命并发症指南",
+      "url": "https://mp.weixin.qq.com/s/DmmYLK9Ln8a4QO_kHfegPA",
+      "category": "treatment"
+    },
+    {
+      "title": "中国临床肿瘤学会（CSCO）抗肿瘤治疗相关恶心呕吐预防和治疗指南",
+      "desc": "并发症指南",
+      "url": "https://mp.weixin.qq.com/s/Pw-DIYTVOKva3E1STQgMEg",
+      "category": "treatment"
+    },
+    {
+      "title": "抗肿瘤治疗所致恶心呕吐全程管理上海专家共识（2024年版）",
+      "desc": "并发症指南",
+      "url": "https://mp.weixin.qq.com/s/h0eS366Htj9FFOQTKefAmA",
+      "category": "treatment"
+    },
+    {
+      "title": "消化道出血系列课程",
+      "desc": "并发症指南",
+      "url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg4OTc1ODc4Nw==&action=getalbum&album_id=3406866708361658372",
+      "category": "treatment"
+    },
+    {
+      "title": "中国肿瘤药物相关血小板减少诊疗专家共识（2023版）",
+      "desc": "并发症指南",
+      "url": "https://mp.weixin.qq.com/s/vOTBCTBcI3e5FbQKWleePA",
+      "category": "treatment"
+    },
+    {
+      "title": "肿瘤化疗导致的中性粒细胞减少诊治中国专家共识（2023）",
+      "desc": "并发症指南",
+      "url": "https://mp.weixin.qq.com/s/BNRg1A_q0LQsph4ZeqfM7w",
+      "category": "treatment"
+    },
+    {
+      "title": "中国肿瘤治疗相关骨髓抑制院外管理专家共识",
+      "desc": "并发症指南",
+      "url": "https://mp.weixin.qq.com/s/aj73Bzj4lCanlfk-lvvnUQ",
+      "category": "treatment"
+    },
+    {
+      "title": "肿瘤治疗常见名词",
+      "desc": "55篇-2024-12月更新",
+      "url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA3MTExMjc0MA==&action=getalbum&album_id=3746046877712842754",
+      "category": "all"
+    },
+    {
+      "title": "上海市第一人民医院董汉光教授分享视频-晚期常见并发症的处理原则",
+      "desc": "并发症新病友家属推荐观看",
+      "url": "https://meeting.tencent.com/user-center/shared-record-info?id=6b03ce3a-9ba0-4557-a8e2-648425e2ef33&from=3",
+      "category": "all"
+    },
+    {
+      "title": "肝胆胰临床群",
+      "desc": "病友发起的临床实验信息交流群，非常高效，推荐但提醒需要自己对于信息进行合理判断和掌握，同时对于临床实验的利弊充分了解。联系vx: yumi12q2",
+      "url": "",
+      "category": "community"
+    },
+    {
+      "title": "Claudin18.2群",
+      "desc": "病友发起的临床实验信息交流群，针对18.2，提醒病友自己需要对信息进行甄别并充分了解临床实验利弊。联系vx: langyb",
+      "url": "",
+      "category": "community"
+    },
+    {
+      "title": "5-fu方案经验分享群",
+      "desc": "病友发起的以四药/三药/改良四药/以及脂质体四药方案为主的病友经验交流群。联系vx: Dodooya",
+      "url": "",
+      "category": "community"
+    },
+    {
+      "title": "杰哥谈免疫",
+      "desc": "提供靶向和免疫的专业提醒和关键提醒，比如超进展基因",
+      "url": "https://docs.qq.com/doc/DRlZSc05NUnlqSEpE",
+      "category": "mustread"
+    },
+    {
+      "title": "雅颖止痛（lyq整理10.11版）",
+      "desc": "完整和详细的止疼药物方案的各种介绍",
+      "url": "https://docs.qq.com/pdf/DRlBDaFVXVk1Ma0N0",
+      "category": "treatment"
+    },
+    {
+      "title": "张煜医生肿瘤科普知识合集",
+      "desc": "推荐重点阅读",
+      "url": "https://mp.weixin.qq.com/s/q167V28VyLwvZCNWF_cGyg",
+      "category": "mustread"
+    },
+    {
+      "title": "梅奥mayoclinic胰腺癌介绍",
+      "desc": "梅奥诊所-美国一流癌症治疗中心，贵",
+      "url": "https://www.mayoclinic.org/zh-hans/diseases-conditions/pancreatic-cancer/diagnosis-treatment/drc-20355427",
+      "category": "all"
+    },
+    {
+      "title": "大韩康复宝典",
+      "desc": "成功治疗，真实心得",
+      "url": "https://docs.qq.com/pdf/DRmlIT3VBUm1pclJ4",
+      "category": "mustread"
+    },
+    {
+      "title": "瑞金营养手册",
+      "desc": "瑞金医院的营养手册，术后和日常注意",
+      "url": "https://docs.qq.com/pdf/DRnBqWmJvSU9tQ3BG",
+      "category": "treatment"
+    },
+    {
+      "title": "四药联用方案相关注意事项",
+      "desc": "一乐出品",
+      "url": "https://docs.qq.com/pdf/DRlZZQ01DdlF5dmdF",
+      "category": "treatment"
+    },
+    {
+      "title": "最新2021肿瘤营养权威指南解读饮食实战指导",
+      "desc": "营养指南",
+      "url": "https://docs.qq.com/pdf/DRkFjTVR1d1VIZ2Vl",
+      "category": "treatment"
+    },
+    {
+      "title": "中国肿瘤患者膳食营养白皮书（完整版）",
+      "desc": "营养指南",
+      "url": "https://docs.qq.com/pdf/DRkhNd1Z0dHFvcnBC",
+      "category": "treatment"
+    },
+    {
+      "title": "桑福德指南抗微生物治疗指南第50版",
+      "desc": "抗微生物治疗指南",
+      "url": "https://drive.weixin.qq.com/s?k=APQAjQeyAB4XRGJ1TU",
+      "category": "treatment"
+    },
+    {
+      "title": "医学蒲公英",
+      "desc": "提供医疗真相、肿瘤及其他医学科普知识、人生感悟和病例案例等内容",
+      "url": "https://www.yixue.com/",
+      "category": "all"
+    },
+    {
+      "title": "默沙东诊疗手册",
+      "desc": "提供详细的医学信息和诊疗指南",
+      "url": "https://www.msdmanuals.cn/home",
+      "category": "all"
+    },
+    {
+      "title": "默沙东诊疗手册专业版",
+      "desc": "默沙东诊疗手册手机专业版",
+      "url": "https://www.msdmanuals.cn/professional/health-topics",
+      "category": "all"
+    },
+    {
+      "title": "胰腺癌相关链接",
+      "desc": "提供胰腺癌相关信息",
+      "url": "https://www.cancer123.com/types/pancreatic-cancer/",
+      "category": "all"
+    },
+    {
+      "title": "胰腺靶向药",
+      "desc": "提供胰腺癌的靶向药物信息",
+      "url": "https://www.cancer123.com/e/action/ListInfo.php?&classid=10&ph=1&&shiyingzheng=%E8%83%B0%E8%85%BA%E7%99%8C",
+      "category": "treatment"
+    },
+    {
+      "title": "基因医生",
+      "desc": "提供基因医学相关信息",
+      "url": "https://www.cgene.com/",
+      "category": "all"
+    },
+    {
+      "title": "上海医院名单",
+      "desc": "提供上海地区的医院名单",
+      "url": "https://www.yixue.com/%E5%8C%BB%E9%99%A2%E7%AD%89%E7%BA%A7",
+      "category": "all"
+    },
+    {
+      "title": "一文读懂 | 伽玛刀、射波刀、Tomo刀、X光刀、速锋刀、质子刀、海扶刀、纳米刀",
+      "desc": "放疗科普",
+      "url": "https://mp.weixin.qq.com/s/9WEki9_FPzEpzPH4NeEWyw",
+      "category": "science"
+    },
+    {
+      "title": "胰腺肿瘤梗阻性黄疸和3种减黄方式",
+      "desc": "减黄科普",
+      "url": "https://m.haodf.com/neirong/wenzhang/9392710607.html",
+      "category": "science"
+    },
+    {
+      "title": "感染性发热 or 肿瘤热？如何区分？",
+      "desc": "发热类型区分",
+      "url": "https://mp.weixin.qq.com/s/77gLvsKiyvj1kKXTXsc_sA",
+      "category": "science"
+    },
+    {
+      "title": "一文解析16个肿瘤临床终点(OS、PFS、ORR、DCR等)",
+      "desc": "临床指标解析",
+      "url": "https://mp.weixin.qq.com/s/VENVtl_FfX8pJ2Wp6qYI_w",
+      "category": "science"
+    },
+    {
+      "title": "肿瘤治疗评估标准的CR、PR、SD、PD分别代表什么意思？",
+      "desc": "治疗评估标准解析",
+      "url": "https://mp.weixin.qq.com/s/ZEFdzhL3Wsl3C7qQ4qQWFg",
+      "category": "science"
+    },
+    {
+      "title": "白细胞守护者：长效VS短效升白针，升白针到底该如何使用？",
+      "desc": "升白针使用指南",
+      "url": "https://mp.weixin.qq.com/s/MMd2H3QzxcHgU6B6bwJE0w",
+      "category": "science"
+    },
+    {
+      "title": "常用化疗药物输注注意事项：时间、速度、途径、顺序",
+      "desc": "化疗药物使用指南",
+      "url": "https://mp.weixin.qq.com/s/vw8cUZjD2v_hBAfUrcg47g",
+      "category": "science"
+    },
+    {
+      "title": "必看干货！化疗后白细胞低不怕了，靠谱升白方法都在这里",
+      "desc": "升白方法指南",
+      "url": "https://mp.weixin.qq.com/s/64FNTj7G2qDNeypFv6bRWg",
+      "category": "science"
+    },
+    {
+      "title": "癌症治疗期间血小板下降应对策略及饮食指南",
+      "desc": "血小板下降应对指南",
+      "url": "https://mp.weixin.qq.com/s/eeJrNdgMJVog7Sjlo8AU4w",
+      "category": "science"
+    },
+    {
+      "title": "胰腺癌药物治疗方案进展（2024）",
+      "desc": "最新治疗方案进展",
+      "url": "https://mp.weixin.qq.com/s/AswtnonA63IT8ZpQ8ie1AQ",
+      "category": "treatment"
+    },
+    {
+      "title": "如何看懂血常规及肝功指标",
+      "desc": "检验指标解读",
+      "url": "https://docs.qq.com/document/DR3BmbGNaYVZkTmdJ",
+      "category": "science"
+    },
+    {
+      "title": "周军教授：KRAS突变的胰腺癌创新药研发进展与展望",
+      "desc": "KRAS突变研究进展",
+      "url": "https://dxy.me/aI1BCr",
+      "category": "science"
+    },
+    {
+      "title": "癌性腹水怎么应对？4张表格总结好了！",
+      "desc": "总结了腹水的形成机制、诊断、分级和治疗方法",
+      "url": "https://mp.weixin.qq.com/s/Ke25KAEFbO6-yRqgAcbtSQ",
+      "category": "complication"
+    },
+    {
+      "title": "恶性腹腔积液的系统治疗",
+      "desc": "浙江大学附属邵逸夫医院潘宏铭教授介绍恶性腹水的产生原因和治疗方法",
+      "url": "https://mp.weixin.qq.com/s/CVzbaEXXAdFkLN7Xj4GnbQ",
+      "category": "complication"
+    },
+    {
+      "title": "肿瘤患者如何应对腹水难收",
+      "desc": "李进医生团队提供的系统性介绍",
+      "url": "https://mp.weixin.qq.com/s/uJ8zyPu0KuDIKviIWuGRHQ",
+      "category": "complication"
+    },
+    {
+      "title": "血小板减少患者抗栓/抗凝选择",
+      "desc": "血小板低时的抗凝治疗注意事项",
+      "url": "https://mp.weixin.qq.com/s/-gJJ9W1Hq9pWm8JkZEtn6Q",
+      "category": "complication"
+    },
+    {
+      "title": "血小板低了怎么办？这几种方法可以帮助您！",
+      "desc": "血小板减少的应对方法",
+      "url": "https://mp.weixin.qq.com/s/51YKtnF3PezQJhFU_DUaBQ",
+      "category": "complication"
+    },
+    {
+      "title": "肿瘤治疗血小板减少怎么办？",
+      "desc": "瑞金医院张俊教授讲解CTIT的评估及治疗选择",
+      "url": "https://mp.weixin.qq.com/s/LvHSzQFxb74kc6jt_gM3tw",
+      "category": "complication"
+    }
+  ]
+}

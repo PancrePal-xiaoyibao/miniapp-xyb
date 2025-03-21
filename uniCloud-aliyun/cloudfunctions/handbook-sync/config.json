@@ -1,0 +1,11 @@
+{
+    "timeout": 60,
+    "memorySize": 256,
+    "triggers": [{
+        "name": "dailySync",
+        "type": "timer",
+        "config": "0 0 3 * * *"  // 每天凌晨3点执行
+    }],
+    "versionId": "1",
+    "runtime": "Nodejs12"
+}

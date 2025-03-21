@@ -1,0 +1,39 @@
+{
+    "bsonType": "object",
+    "required": ["username"],
+    "permission": {
+        "read": true,
+        "create": true,
+        "update": true,
+        "delete": false
+    },
+    "properties": {
+        "_id": {
+            "description": "ID，系统自动生成"
+        },
+        "username": {
+            "bsonType": "string",
+            "description": "用户名，用户唯一标识"
+        },
+        "nickname": {
+            "bsonType": "string",
+            "description": "用户昵称"
+        },
+        "avatar": {
+            "bsonType": "string",
+            "description": "头像地址"
+        },
+        "last_login_time": {
+            "bsonType": "timestamp",
+            "description": "最后登录时间"
+        },
+        "create_time": {
+            "bsonType": "timestamp",
+            "description": "创建时间"
+        },
+        "status": {
+            "bsonType": "int",
+            "description": "用户状态：0-禁用 1-正常"
+        }
+    }
+}

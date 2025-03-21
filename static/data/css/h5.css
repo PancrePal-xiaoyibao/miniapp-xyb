@@ -1,0 +1,74 @@
+/* h5.css */
+
+/* 基础样式 */
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+/* 头部样式 */
+.app-header {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+.app-header .logo {
+    width: 100px;
+    height: auto;
+}
+
+/* 项目介绍部分 */
+.project-introduction, .services, .volunteer-recruitment {
+    padding: 20px;
+    margin: 10px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* 标题样式 */
+h2 {
+    color: var(--secondary-color);
+}
+
+/* 列表样式 */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+/* 备案信息样式 */
+.icp-footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f1f1f1;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+/* 响应式设计 */
+@media (max-width: 600px) {
+    .app-header {
+        padding: 10px;
+    }
+
+    .project-introduction, .services, .volunteer-recruitment {
+        padding: 15px;
+        margin: 5px;
+    }
+
+    h2 {
+        font-size: 1.5em;
+    }
+}

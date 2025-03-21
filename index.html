@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="h5-wrapper">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>小胰宝公益助手</title>
+    
+    <!-- 安全相关 -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' https: 'unsafe-inline' 'unsafe-eval'">
+    <meta name="referrer" content="no-referrer">
+    
+    <!-- 移动端适配 -->
+    <script>
+    (function(){
+        const docEl = document.documentElement
+        function setRemUnit() {
+            const rem = docEl.clientWidth / 10
+            docEl.style.fontSize = rem + 'px'
+        }
+        setRemUnit()
+        window.addEventListener('resize', setRemUnit)
+    })()
+    </script>
+
+    <style>
+    /* 基础样式 */
+    body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;
+        -webkit-tap-highlight-color: transparent;
+    }
+    
+    /* 健康主题配色 */
+    :root {
+        --primary-color: #4CAF50; /* 健康绿 */
+        --secondary-color: #2196F3; /* 医疗蓝 */
+    }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <!-- 头部 -->
+        <header class="app-header">
+            <img src="<%= BASE_URL %>static/logo.png" alt="小胰宝" class="logo">
+            <h1>小胰宝公益助手</h1>
+            <p class="slogan">国内首个开源胰腺肿瘤患者AI助手</p>
+        </header>
+
+        <!-- 项目介绍 -->
+        <section class="project-introduction">
+            <h2>关于小胰宝</h2>
+            <p>小胰宝公益助手（www.xiaoyibao.com.cn），由病友SamQin创立上线，现已捐助<a href="https://chancefoundation.com.cn/" target="_blank">天工开物基金会</a>，由小X宝开源社区专业团队管理。主旨是为帮助每年数十万新增胰腺肿瘤患者及家属，获得公益AI信息服务，克服专业医学和治疗的医患信息差。</p>
+            <p>使用小胰宝及其它癌肿的AI助手，可获得7x24小时公益信息服务，帮助病患高效率、准确理解病情状态、治疗术语、规范治疗指南，以及综合治疗的复杂信息，克服慌乱情绪，选择科学和有效治疗路线，并最终获得更长的治疗收益。</p>
+        </section>
+
+        <!-- 项目及服务 -->
+        <section class="services">
+            <h2>我们的服务</h2>
+            <p>小X宝社区积极推动AI技术和患者公益应用的融合，提供技术和运营双开源。通过<a href="www.xiaoyibao.com.cn/weiguang.html" target="_blank">微光成炬计划</a>积极寻找跨癌肿的KOL们，根据需要，自由使用多种技术，自由构建智能助手，自主运营公益项目，服务不同癌肿群体需求。</p>
+            <ul>
+                <li><a href="www.xiaomengbao.cn" target="_blank">小萌宝</a>： 面向肛肠肿瘤患者家属的公益应用</li>
+                <li><a href="http://www.xiaofeibao.com.cn" target="_blank">小肺宝</a>： 肺癌患者AI助手应用</li>
+                <li>小粉宝：乳腺肿瘤患者应用，研发上线</li>
+            </ul>
+        </section>
+
+        <!-- 招募志愿者 -->
+        <section class="volunteer-recruitment">
+            <h2>加入我们</h2>
+            <p>我们招募志愿者加入，欢迎关注了解<a href="zhaomu.html">招募信息</a></p>
+        </section>
+
+        <!-- 备案信息 -->
+        <footer class="icp-footer">
+            <p>©2024 小胰宝健康科技</p>
+            <p>沪ICP备2023031159号-6X</p>
+        </footer>
+    </div>
+</body>
+</html>

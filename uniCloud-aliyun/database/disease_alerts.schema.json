@@ -1,0 +1,53 @@
+{
+	"bsonType": "object",
+	"required": ["userId", "type", "title", "description", "createTime", "status"],
+	"permission": {
+		"read": true,
+		"create": "auth.uid != null",
+		"update": "auth.uid != null",
+		"delete": "auth.uid != null"
+	},
+	"properties": {
+		"_id": {
+			"description": "ID，系统自动生成"
+		},
+		"userId": {
+			"bsonType": "string",
+			"description": "用户ID"
+		},
+		"type": {
+			"bsonType": "string",
+			"enum": ["info", "warning", "danger"],
+			"description": "提醒类型：info-普通提醒，warning-警告，danger-危险"
+		},
+		"title": {
+			"bsonType": "string",
+			"description": "提醒标题",
+			"maxLength": 100
+		},
+		"description": {
+			"bsonType": "string",
+			"description": "提醒详细内容",
+			"maxLength": 500
+		},
+		"createTime": {
+			"bsonType": "timestamp",
+			"description": "创建时间"
+		},
+		"status": {
+			"bsonType": "string",
+			"enum": ["active", "resolved", "deleted"],
+			"description": "状态：active-活动，resolved-已解决，deleted-已删除",
+			"defaultValue": "active"
+		},
+		"resolveTime": {
+			"bsonType": "timestamp",
+			"description": "解决时间"
+		},
+		"resolveNote": {
+			"bsonType": "string",
+			"description": "解决说明",
+			"maxLength": 500
+		}
+	}
+}

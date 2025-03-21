@@ -1,0 +1,6 @@
+{
+    "action": "login",
+    "params": {
+        "username": "test_user"
+    }
+}

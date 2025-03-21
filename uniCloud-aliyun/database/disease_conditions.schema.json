@@ -1,0 +1,49 @@
+{
+	"bsonType": "object",
+	"required": ["userId", "content", "createTime"],
+	"permission": {
+		"read": true,
+		"create": "auth.uid != null",
+		"update": "auth.uid != null",
+		"delete": "auth.uid != null"
+	},
+	"properties": {
+		"_id": {
+			"description": "ID，系统自动生成"
+		},
+		"userId": {
+			"bsonType": "string",
+			"description": "用户ID"
+		},
+		"content": {
+			"bsonType": "string",
+			"description": "病情描述",
+			"maxLength": 1000
+		},
+		"createTime": {
+			"bsonType": "timestamp",
+			"description": "创建时间"
+		},
+		"attachments": {
+			"bsonType": "array",
+			"description": "附件（如检查报告等）",
+			"items": {
+				"bsonType": "object",
+				"properties": {
+					"fileID": {
+						"bsonType": "string",
+						"description": "文件ID"
+					},
+					"name": {
+						"bsonType": "string",
+						"description": "文件名"
+					},
+					"type": {
+						"bsonType": "string",
+						"description": "文件类型"
+					}
+				}
+			}
+		}
+	}
+}

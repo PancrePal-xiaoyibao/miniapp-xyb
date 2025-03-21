@@ -1,0 +1,67 @@
+{
+	"bsonType": "object",
+	"required": ["title"],
+	"permission": {
+		"read": true,
+		"create": false,
+		"update": false,
+		"delete": false
+	},
+	"properties": {
+		"_id": {
+			"description": "ID，系统自动生成"
+		},
+		"title": {
+			"bsonType": "string",
+			"description": "标题",
+			"title": "标题"
+		},
+		"desc": {
+			"bsonType": "string",
+			"description": "描述",
+			"title": "描述"
+		},
+		"content": {
+			"bsonType": "string",
+			"description": "内容",
+			"title": "内容"
+		},
+		"url": {
+			"bsonType": "string",
+			"description": "外部链接",
+			"title": "外部链接"
+		},
+		"category": {
+			"bsonType": "string",
+			"description": "分类",
+			"title": "分类",
+			"enum": ["all", "mustread", "science", "complication", "treatment"]
+		},
+		"source": {
+			"bsonType": "string",
+			"description": "来源",
+			"title": "来源",
+			"enum": ["manual", "feishu"]
+		},
+		"create_time": {
+			"bsonType": "timestamp",
+			"description": "创建时间",
+			"title": "创建时间"
+		},
+		"update_time": {
+			"bsonType": "timestamp",
+			"description": "更新时间",
+			"title": "更新时间"
+		},
+		"view_count": {
+			"bsonType": "int",
+			"description": "浏览次数",
+			"title": "浏览次数"
+		},
+		"feishu_node_token": {
+			"bsonType": "string",
+			"description": "飞书文档节点token",
+			"title": "飞书文档节点token"
+		}
+	}
+}

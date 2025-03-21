@@ -1,0 +1,24 @@
+{
+    "ai": {
+        "chat": {
+            "base_url": "https://api.example.com",
+            "api_key": "your_chat_api_key",
+            "model": "gpt-3.5-turbo",
+            "timeout": 300000,
+            "system_prompt": "你是一个专业的胰腺癌医疗助手，名字叫小胰宝。"
+        },
+        "vision": {
+            "base_url": "https://api.example.com",
+            "api_key": "your_vision_api_key",
+            "model": "yi-vision-v2",
+            "max_tokens": 1024,
+            "timeout": 300000
+        }
+    },
+    "feishu": {
+        "base_url": "https://open.feishu.cn/open-apis",
+        "app_id": "your_app_id",
+        "app_secret": "your_app_secret",
+        "wiki_space_id": "your_wiki_space_id"
+    }
+}

@@ -1,0 +1,34 @@
+# 敏感配置文件
+.env
+.env.*
+tmp
+
+# Node
+dist/
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+unpackage/
+Thumbs.db
+
+# IDE
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS
+.DS_Store
+.env
+.DS_Store
+.idea/
+.vscode/
+.hbuilderx
+*.log
+
+# 添加以下内容
+*/config.js

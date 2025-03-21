@@ -1,0 +1,19 @@
+// chat_history集合Schema
+{
+    "bsonType": "object",
+    "required": ["user_id", "content"],
+    "permission": {
+        "read": "doc.user_id == auth.uid",
+        "create": "auth.uid != null",
+        "update": "doc.user_id == auth.uid",
+        "delete": "doc.user_id == auth.uid"
+    },
+    "properties": {
+        "_id": {"description": "ID，系统自动生成"},
+        "user_id": {"bsonType": "string"},
+        "content": {"bsonType": "string"},
+        "type": {"bsonType": "string", "enum": ["user", "ai"]},
+        "create_time": {"bsonType": "timestamp"},
+        "status": {"bsonType": "int"}
+    }
+}
